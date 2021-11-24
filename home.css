@@ -12,7 +12,7 @@ body {
 
 header {
     padding: 100px;
-    background-image:url(/fin2.png);
+    background-image:url(fin2.png);
     height: 100vh;
     min-height: 100px;
     background-attachment: fixed;
